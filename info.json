@@ -1,0 +1,22 @@
+{
+    "name": "Danny Gardner",
+    "website": "https://github.com/DannyGardner2",
+    "linkedin": "https://www.linkedin.com/in/dannygardner/",
+    "github": "DannyGardner2",
+    "email": "dannygardnercg@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Python"
+    ],
+    "otherSkills": [
+        "Sleeping",
+        "Eating",
+        "Sitting"
+    ]
+}
